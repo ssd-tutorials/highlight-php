@@ -1,0 +1,22 @@
+* {
+	padding:0;
+	margin:0;
+	border:none;
+	outline:none;
+}
+body {
+	font-family: Arial, Verdana, Sans-serif;
+	line-height:21px;
+	font-size: 14px;
+	color:#333;
+	text-align:center;
+	padding:30px 0;
+}
+#wrapper {
+	text-align: left;
+	width:800px;
+	margin:0 auto;
+}
+.highlight {
+	background:#d7dd1e;
+}
